@@ -1,0 +1,19 @@
+h1{
+	text-align: center;
+}
+
+.tabla{
+	text-align: center;
+}
+
+table{
+  	margin: 0 auto;
+}
+
+table, th, th, td{
+	text-align: center;
+	border: 2px solid black;
+	border-collapse: collapse;
+	padding: 8px;
+}
+
