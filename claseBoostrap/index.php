@@ -15,12 +15,12 @@
         <div class="card bg-dark text-white" style="border-radius: 1rem;">
           <div class="card-body p-5 text-center">
 			<h2>Log-In</h2>
-			<form>
+			<form method="get" action="productos.php">
 				<p>Username:</p>
 				<input type="text" name="">
 
-				<p>Password</p>
-				<input type="password" name=""><br>
+				<p>Password:</p>
+				<input type="password" name=""><br><br>
 
 				<button type="submit">Acceder</button>
 			</form>
